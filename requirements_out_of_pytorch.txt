@@ -41,7 +41,7 @@ onnxruntime==1.14.1
 openai==0.27.6
 OpenAIAuth==0.3.6
 packaging==23.1
-Pillow==9.3.0
+Pillow==10.3.0
 pooch==1.6.0
 proces==0.1.4
 prompt-toolkit==3.0.38
