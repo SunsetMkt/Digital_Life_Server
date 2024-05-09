@@ -66,7 +66,7 @@ sympy==1.11.1
 threadpoolctl==3.1.0
 tiktoken==0.3.3
 tokenizers==0.13.3
-tqdm==4.65.0
+tqdm==4.66.3
 transformers==4.28.1
 typeguard==2.13.3
 typing_extensions==4.4.0
